@@ -1,0 +1,2 @@
+# Parkinson-prediction
+Mini Project
