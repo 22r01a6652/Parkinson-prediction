@@ -1,0 +1,238 @@
+Folder PATH listing for volume OS
+Volume serial number is 44BD-D84C
+C:.
+¦   db.sqlite3
+¦   folder_structure.txt
+¦   manage.py
+¦   
++---admins
+¦   ¦   admin.py
+¦   ¦   apps.py
+¦   ¦   models.py
+¦   ¦   tests.py
+¦   ¦   views.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---migrations
+¦   ¦   ¦   __init__.py
+¦   ¦   ¦   
+¦   ¦   +---__pycache__
+¦   ¦           __init__.cpython-311.pyc
+¦   ¦           __init__.cpython-37.pyc
+¦   ¦           
+¦   +---__pycache__
+¦           admin.cpython-311.pyc
+¦           admin.cpython-37.pyc
+¦           models.cpython-311.pyc
+¦           models.cpython-37.pyc
+¦           views.cpython-311.pyc
+¦           views.cpython-37.pyc
+¦           __init__.cpython-311.pyc
+¦           __init__.cpython-37.pyc
+¦           
++---assets
+¦   +---static
+¦   ¦   +---css
+¦   ¦   ¦       animate.css
+¦   ¦   ¦       bootsnav.css
+¦   ¦   ¦       bootstrap.min.css
+¦   ¦   ¦       font-awesome.min.css
+¦   ¦   ¦       hover-min.css
+¦   ¦   ¦       magnific-popup.css
+¦   ¦   ¦       owl.carousel.min.css
+¦   ¦   ¦       owl.theme.default.min.css
+¦   ¦   ¦       responsive.css
+¦   ¦   ¦       style.css
+¦   ¦   ¦       
+¦   ¦   +---fonts
+¦   ¦   ¦       fontawesome-webfont.eot
+¦   ¦   ¦       fontawesome-webfont.svg
+¦   ¦   ¦       fontawesome-webfont.ttf
+¦   ¦   ¦       fontawesome-webfont.woff
+¦   ¦   ¦       fontawesome-webfont.woff2
+¦   ¦   ¦       FontAwesome.otf
+¦   ¦   ¦       glyphicons-halflings-regular.eot
+¦   ¦   ¦       glyphicons-halflings-regular.svg
+¦   ¦   ¦       glyphicons-halflings-regular.ttf
+¦   ¦   ¦       glyphicons-halflings-regular.woff
+¦   ¦   ¦       glyphicons-halflings-regular.woff2
+¦   ¦   ¦       
+¦   ¦   +---images
+¦   ¦   ¦   +---about
+¦   ¦   ¦   ¦       ab1.jpg
+¦   ¦   ¦   ¦       ab2.jpg
+¦   ¦   ¦   ¦       about-banner.jpg
+¦   ¦   ¦   ¦       about-part.jpg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---banner
+¦   ¦   ¦   ¦       banner1.jpg
+¦   ¦   ¦   ¦       banner2.jpg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---blog
+¦   ¦   ¦   ¦       bl1.jpg
+¦   ¦   ¦   ¦       bl2.jpg
+¦   ¦   ¦   ¦       bl3.jpg
+¦   ¦   ¦   ¦       bl4.jpg
+¦   ¦   ¦   ¦       bl5.jpg
+¦   ¦   ¦   ¦       bl6.jpg
+¦   ¦   ¦   ¦       bl7.jpg
+¦   ¦   ¦   ¦       bl8.jpg
+¦   ¦   ¦   ¦       blog-banner.jpg
+¦   ¦   ¦   ¦       cmn1.jpg
+¦   ¦   ¦   ¦       cmn2.jpg
+¦   ¦   ¦   ¦       cmn3.jpg
+¦   ¦   ¦   ¦       facebook.png
+¦   ¦   ¦   ¦       g.png
+¦   ¦   ¦   ¦       linkedin.png
+¦   ¦   ¦   ¦       play-icon.png
+¦   ¦   ¦   ¦       rp1.jpg
+¦   ¦   ¦   ¦       rp2.jpg
+¦   ¦   ¦   ¦       rp3.jpg
+¦   ¦   ¦   ¦       tw.png
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---client
+¦   ¦   ¦   ¦       client1.png
+¦   ¦   ¦   ¦       client2.png
+¦   ¦   ¦   ¦       client3.png
+¦   ¦   ¦   ¦       client4.png
+¦   ¦   ¦   ¦       client5.png
+¦   ¦   ¦   ¦       testimonial1.jpg
+¦   ¦   ¦   ¦       testimonial2.jpg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---counter
+¦   ¦   ¦   ¦       counter-banner.jpg
+¦   ¦   ¦   ¦       counter1.png
+¦   ¦   ¦   ¦       counter2.png
+¦   ¦   ¦   ¦       counter3.png
+¦   ¦   ¦   ¦       counter4.png
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---footer
+¦   ¦   ¦   ¦       map.jpg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---home
+¦   ¦   ¦   ¦       busisness_grow.png
+¦   ¦   ¦   ¦       consultency.png
+¦   ¦   ¦   ¦       support-logo.png
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---logo
+¦   ¦   ¦   ¦       favicon.png
+¦   ¦   ¦   ¦       logo.png
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---project
+¦   ¦   ¦   ¦       project-banner.jpg
+¦   ¦   ¦   ¦       project1.jpg
+¦   ¦   ¦   ¦       project2.jpg
+¦   ¦   ¦   ¦       project3.jpg
+¦   ¦   ¦   ¦       project4.jpg
+¦   ¦   ¦   ¦       project5.jpg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---service
+¦   ¦   ¦   ¦       service-banner.jpg
+¦   ¦   ¦   ¦       service1.png
+¦   ¦   ¦   ¦       service2.png
+¦   ¦   ¦   ¦       service3.png
+¦   ¦   ¦   ¦       service4.png
+¦   ¦   ¦   ¦       service5.png
+¦   ¦   ¦   ¦       service6.png
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---team
+¦   ¦   ¦           team-banner.jpg
+¦   ¦   ¦           team.jpg
+¦   ¦   ¦           team2.jpg
+¦   ¦   ¦           team3.jpg
+¦   ¦   ¦           
+¦   ¦   +---js
+¦   ¦           bootsnav.js
+¦   ¦           bootstrap.min.js
+¦   ¦           custom.js
+¦   ¦           jak-menusearch.js
+¦   ¦           jquery.counterup.min.js
+¦   ¦           jquery.hc-sticky.min.js
+¦   ¦           jquery.js
+¦   ¦           jquery.magnific-popup.min.js
+¦   ¦           owl.carousel.min.js
+¦   ¦           waypoints.min.js
+¦   ¦           
+¦   +---templates
+¦       ¦   AdminLogin.html
+¦       ¦   base.html
+¦       ¦   index.html
+¦       ¦   UserLogin.html
+¦       ¦   UserRegistrations.html
+¦       ¦   
+¦       +---admins
+¦       ¦       adminbase.html
+¦       ¦       AdminHome.html
+¦       ¦       admin_results.html
+¦       ¦       RegisteredUsers.html
+¦       ¦       
+¦       +---users
+¦               model_results.html
+¦               parkinson_form.html
+¦               userbase.html
+¦               UserHome.html
+¦               view_data.html
+¦               
++---media
+¦       parkinsons.csv
+¦       
++---ParkinsonDisease
+¦   ¦   settings.py
+¦   ¦   urls.py
+¦   ¦   views.py
+¦   ¦   wsgi.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---__pycache__
+¦           settings.cpython-311.pyc
+¦           settings.cpython-37.pyc
+¦           urls.cpython-311.pyc
+¦           urls.cpython-37.pyc
+¦           views.cpython-311.pyc
+¦           views.cpython-37.pyc
+¦           wsgi.cpython-311.pyc
+¦           wsgi.cpython-37.pyc
+¦           __init__.cpython-311.pyc
+¦           __init__.cpython-37.pyc
+¦           
++---users
+    ¦   admin.py
+    ¦   apps.py
+    ¦   forms.py
+    ¦   models.py
+    ¦   tests.py
+    ¦   views.py
+    ¦   __init__.py
+    ¦   
+    +---migrations
+    ¦   ¦   0001_initial.py
+    ¦   ¦   __init__.py
+    ¦   ¦   
+    ¦   +---__pycache__
+    ¦           0001_initial.cpython-311.pyc
+    ¦           0001_initial.cpython-37.pyc
+    ¦           __init__.cpython-311.pyc
+    ¦           __init__.cpython-37.pyc
+    ¦           
+    +---utility
+    ¦   ¦   parkinson_utility.py
+    ¦   ¦   process_user_input.py
+    ¦   ¦   
+    ¦   +---__pycache__
+    ¦           parkinson_utility.cpython-311.pyc
+    ¦           parkinson_utility.cpython-37.pyc
+    ¦           process_user_input.cpython-311.pyc
+    ¦           process_user_input.cpython-37.pyc
+    ¦           
+    +---__pycache__
+            admin.cpython-311.pyc
+            admin.cpython-37.pyc
+            forms.cpython-311.pyc
+            forms.cpython-37.pyc
+            models.cpython-311.pyc
+            models.cpython-37.pyc
+            views.cpython-311.pyc
+            views.cpython-37.pyc
+            __init__.cpython-311.pyc
+            __init__.cpython-37.pyc
+            
